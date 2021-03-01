@@ -1,8 +1,8 @@
 const STATE_JSON = {
 
     skills: [
-        {title: 'Javascript', level: 85},
-        {title: 'Java', level: 70},
+        {title: 'Javascript', level: 70},
+        {title: 'Java', level: 85},
         {title: 'Python', level: 50},
         {title: 'SQL', level: 70},
         {title: 'HTML', level: 90},
